@@ -1,10 +1,6 @@
 # hey-greg-releases
 
-```
-    /\_/\
-   ( o.o )
-    > ^ <
-```
+<p align="center"><img src="cat.png" width="640" alt=""></p>
 
 Latest build: [1.13 (17)](https://github.com/superic/hey-greg-releases/releases/download/v1.13/HeyGreg.zip)
 
