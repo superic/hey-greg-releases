@@ -2,7 +2,7 @@
 
 <p align="center"><img src="cat.png" width="640" alt=""></p>
 
-Latest build: [1.13 (17)](https://github.com/superic/hey-greg-releases/releases/download/v1.13/HeyGreg.zip)
+Latest build: [1.14 (18)](https://github.com/superic/hey-greg-releases/releases/download/v1.14/HeyGreg.zip)
 
 Always the newest: https://github.com/superic/hey-greg-releases/releases/latest/download/HeyGreg.zip
 
